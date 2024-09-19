@@ -6,7 +6,7 @@ This is a web app that predicts customer churn using an ANN model. It takes user
 
 ## Live Demo
 
-[Click here to view the deployed app](https://ann-classification-axkwymtd8igvoj6wcverss.streamlit.app/)
+[Click here to view the deployed app](https://imdbreviewsrnn-qfavdt7je4ghrpvorjnbcj.streamlit.app/)
 
 ## How to Run Locally
 1. Clone the repository:
